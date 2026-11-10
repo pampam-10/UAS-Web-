@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Surpin — Pinjam Barang & Jasa Bantuan antar-Mahasiswa
 
 Project Akhir Praktikum Pemrograman Web. Platform yang mempertemukan mahasiswa yang butuh barang atau bantuan dengan mahasiswa lain yang punya barang menganggur atau waktu luang. Sistem mencatat permintaan, kesepakatan, dan status transaksinya.
